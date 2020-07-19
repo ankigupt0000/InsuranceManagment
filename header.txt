@@ -1,0 +1,7 @@
+<!--**************************************************************************************************
+Project Name	: Insurence Management 
+Author		: Ankit Gupta 
+email		: ankit.gnu@rediffmail.com
+Developed Under	: Academic Free License
+URL		: http://sourceforge.net/projects/insurencemgmt/
+***************************************************************************************************-->
